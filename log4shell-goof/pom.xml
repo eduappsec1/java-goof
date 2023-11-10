@@ -18,6 +18,7 @@
     <sonar.organization>eduappsec1</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
+  
   <modules>
     <module>log4shell-server</module>
     <module>log4shell-client</module>
